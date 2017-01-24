@@ -2,7 +2,7 @@
 
 ##Meet the Laundry Aid
 
-#####The Laundry Aid assists in all of your daily laundry needs from washing to folding. Simply insert your clothing, press begin and let the laundry Aid take over the rest.
+#####The Laundry Aid assists in all of your daily laundry needs from washing to folding. Simply insert your clothing, press scan and let the laundry Aid take over the rest.
 
 ##Instructions
 
