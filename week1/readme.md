@@ -12,28 +12,28 @@
 
 ###Step 2: Scan
 
-#####Press the scan button located on the control panel of the machine. Once scan is pressed the machine will scan the clothing assessing the color, soil levels and texture of the items. If there are no issues with the clothing the machine will select the appropriate laundry cycle for the clothing. The selected Laundry cycle will display to the user on the LCD Panel.
+#####Press the scan button located on the control panel of the machine. Once scan is pressed Laundry Aid will scan the clothing assessing color, soil level and fabric. After the scan is complete Laundry Aid will select the appropriate laundry cycle. The selected cycle will display to the user on an LCD panel located above the control panel.
 
-######Note: If the Laundry Aid observes an issue with the clothing such as a red item placed within a white load or a dry clean only item it will alert the user, displaying a text warning on the machines LCD display located next to the control panel. The user will have to remove the item from the wash and then press the scan button to scan the clothing again.
+######Note: If Laundry Aid observes an issue with the clothing such as a red item placed within a white load or a dry clean only item it will alert the user, with sound accompanied by a text alert displayed on the machines LCD display. If this occurs the clothing item must be removed. After the item is removed the scan process must be repeated.
 
 ###Step 3: Wash
 
-#####If the user approves of the selected laundry cycle they will then be able to press the start button on the control panel to begin the laundry cycle. After the start button is pressed the Laundry Aid will lock the door and insert the required detergent, stain remover and fabric softener. The wash cycle will begin immediately after these items have been dispensed.
+#####If laundry cycle is approved by the user they can press the start button on the control panel to begin the laundry cycle. After the start button is pressed Laundry Aid will lock the door and insert any required detergent, stain remover and fabric softener. The wash cycle will begin immediately after these items have been dispensed.
 
-######Note: If the user disagrees with the selected laundry cycle they can either scan the clothing again or use the control manually input their desired laundry cycle. The control panel will have the standard standard laundry options and use knobs to indicate the water temperature, wash cycle, drying temperature and drying length.
+######Note: If the user disagrees with laundry cycle selected by Laundry Aid, they can either scan the clothing again or input their desired laundry cycle manually. Manual controls are available within the control panel. These control will allow users access to standard standard laundry options. Knobs are provided to indicate the water temperature, wash cycle, drying temperature and drying length.
 
 ###Step 4: Dry
 
-#####Immediately following the wash cycle Laundry Aid will dry the clothing in the machine. The clothes will be dried based on the pre-selected laundry cycle.
+#####Immediately following the wash cycle Laundry Aid will dry the clothing in the machine. Clothes will be dried based on the pre-selected laundry cycle.
 
-###Step 5: Find Laundry Basket
+###Step 5: Locate Laundry Basket
 
-##### Before folding the clean clothing the Laundry Aid will first scan the area around the machine looking for an empty laundry basket. If none is present the Laundry aid will Leave the clothing on top of the machine. If a laundry basket is present it will place the clothing into the basket.
+##### Before folding the clean clothing Laundry Aid will scan the area around the machine looking for an empty laundry basket. If a laundry basket is not present Laundry Aid will Leave the folded clothing on top of the machine. If a laundry basket is present it will place the clothing into the basket.
 
 ###Step 6: Fold
 
-#####The final step in the laundry cycle is folding the clothing. To fold the clothing the Laundry Aid will first extend its robotic arms and open the door to the machine. Once the door is opened the arms will move into the machine and select a piece of clothing. The arms will then fold the piece of clothing and place it in an empty laundry basket. This process will repeat until all of the clothing has been folded and placed into the basket.
+#####The final step in the laundry cycle is folding the clothing. To fold the clothing Laundry Aid will first extend its robotic arms and open the door of the machine. Once the door is opened the arms will move into the machine and select a piece of clothing. The arms will then fold the piece of clothing and place it in an empty laundry basket. This process will repeat until all of the clothing has been folded and placed into the basket.
 
 ###Step 7: Reset
 
-#####After the clothing has been folded the machines arms will close the door to the machine and then they will retract into the machine. When the arms have returned to their starting position the machine will be ready to wash, dry and fold another load of laundry.
+#####After the clothing has been folded Laundry Aid's robotic arms will close the machines door and then retract into the machine. When the arms have returned to their starting position the machine will be ready to wash, dry and fold another load of laundry.
