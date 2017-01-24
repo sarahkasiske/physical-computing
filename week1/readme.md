@@ -26,6 +26,8 @@
 
 #####Immediately following the wash cycle Laundry Aid will dry the clothing in the machine. Clothes will be dried based on the pre-selected laundry cycle.
 
+######Note: If the Laundry Cycle must be stopped a stop button will be available to users within the control panel. If the stop button is pressed the laundry cycle will stop and the door will be unlocked. The cycle will continue if the start button is pressed. If the user presses and holds the stop button the cycle will cancel. If the cycle is canceled any water will be drained from the machine and the door will unlock. 
+
 ###Step 5: Locate Laundry Basket
 
 ##### Before folding the clean clothing Laundry Aid will scan the area around the machine looking for an empty laundry basket. If a laundry basket is not present Laundry Aid will Leave the folded clothing on top of the machine. If a laundry basket is present it will place the clothing into the basket.
