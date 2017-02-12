@@ -3,8 +3,6 @@
 
 ###Use 2 switches to turn on 2 leds
 
-####For this assignment I followed the instructions from the Arduino Projects Book to create a Digital Hourglass
-
 ####See the project [here](https://www.youtube.com/watch?v=xWRQ383clgs)
 
 ###Use Case: Pong
