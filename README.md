@@ -1,2 +1,2 @@
 # Physical Computing
-### Physical Computing Assignments
+### Physical Computing Class Assignments 
