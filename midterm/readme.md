@@ -45,7 +45,7 @@ This project would be based off of this [example](https://create.arduino.cc/proj
 ##V2
 This is a component that might be included in version 2. When the LEDs are turned on, different buttons can be pressed to initiate different blink patterns.
 
-##Light Patterns
+###Light Patterns
 * Read Photoresistor
 * If light is low
 * Read Buttons
