@@ -7,20 +7,20 @@ This project would be based off of this [example](https://create.arduino.cc/proj
 
 ##Code Plan
 
-##Turn On device
+###Turn On device
 * Read On/Off Switch
 
 ####Components
 * On/Off Switch
 * Power Cable
 
-##Sense light
+###Sense light
 * Read Photoresistor
 
 ####Components
 * photoresistor
 
-##Open petals
+###Open petals
 * Amount of Light Decreases
 * Petals Begin to Open
 * LEDs Turn on And Brighten
@@ -31,7 +31,7 @@ This project would be based off of this [example](https://create.arduino.cc/proj
 * Resistors
 * Photoresistor
 
-##Close petals
+###Close petals
 * Amount of Light Increases
 * Petals Begin to Close
 * LEDs Turn on and Brighten
