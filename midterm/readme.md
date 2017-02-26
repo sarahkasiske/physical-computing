@@ -5,6 +5,8 @@ The blooming flower is a night light that will read the amount of light in a roo
 
 This project would be based off of this [example](https://create.arduino.cc/projecthub/circuito-io-team/valentine-s-sunflower-3cdd90). The differentiating factors of this project would be the LED lights and the way the flower works. The flower I would create would work exactly the opposite of the one in the example and would have lights so it would function as a nightlight.
 
+![alt tag](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/IMG_2552.JPG)
+
 ##Code Plan
 
 ###Turn On device
@@ -66,6 +68,8 @@ This is a component that might be included in version 2. When the LEDs are turne
 Using the Tea Steeper users will be able to set an amount of time they would like to steep their tea for. After inputing their desired time the user will place the tea on the devices mechanical arm. Below the tea the user will place mug with hot water. Once the mug is in place the user can press a start button and the tea will be lowered into the water. After the tea is steeped the mechanical arm will rise and a noise will alert the user that the tea is done. When the tea is done the device will rotate and the mechanical arm will place the used tea onto an awaiting bowl.
 
 This project would be based off of this [example](http://digitaljunky.io/make-an-automated-tea-steeper-with-arduino/). The differentiating factor of this project would be the rotating of the device to place the used tea into a bowl.
+
+![alt tag](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/IMG_2551.JPG)
 
 ##Code Plan
 
