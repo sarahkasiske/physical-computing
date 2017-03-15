@@ -14,19 +14,19 @@ Open the front loading door of the washing machine and insert clothing. After in
 
 Press the scan button located on the control panel of the machine. Once scan is pressed Laundry Aid will scan the clothing assessing color, soil level and fabric. After the scan is complete Laundry Aid will select the appropriate laundry cycle. The selected cycle will display to the user on an LCD panel located above the control panel.
 
-###### Note: If Laundry Aid observes an issue with the clothing such as a red item placed within a white load or a dry clean only item it will alert the user, with sound accompanied by a text alert displayed on the machines LCD display. If this occurs the clothing item must be removed. After the item is removed the scan process must be repeated.
+##### Note: If Laundry Aid observes an issue with the clothing such as a red item placed within a white load or a dry clean only item it will alert the user, with sound accompanied by a text alert displayed on the machines LCD display. If this occurs the clothing item must be removed. After the item is removed the scan process must be repeated.
 
 ### Step 3: Wash
 
 If laundry cycle is approved by the user they can press the start button on the control panel to begin the laundry cycle. After the start button is pressed Laundry Aid will lock the door and insert any required detergent, stain remover and fabric softener. The wash cycle will begin immediately after these items have been dispensed.
 
-###### Note: If the user disagrees with laundry cycle selected by Laundry Aid, they can either scan the clothing again or input their desired laundry cycle manually. Manual controls are available within the control panel. These control will allow users access to standard standard laundry options. Knobs are provided to indicate the water temperature, wash cycle, drying temperature and drying length.
+##### Note: If the user disagrees with laundry cycle selected by Laundry Aid, they can either scan the clothing again or input their desired laundry cycle manually. Manual controls are available within the control panel. These control will allow users access to standard standard laundry options. Knobs are provided to indicate the water temperature, wash cycle, drying temperature and drying length.
 
 ### Step 4: Dry
 
 Immediately following the wash cycle Laundry Aid will dry the clothing in the machine. Clothes will be dried based on the pre-selected laundry cycle.
 
-###### Note: If the Laundry Cycle must be stopped a stop button will be available to users within the control panel. If the stop button is pressed the laundry cycle will stop and the door will be unlocked. The cycle will continue if the start button is pressed. If the user presses and holds the stop button the cycle will cancel. If the cycle is canceled any water will be drained from the machine and the door will unlock. 
+#### Note: If the Laundry Cycle must be stopped a stop button will be available to users within the control panel. If the stop button is pressed the laundry cycle will stop and the door will be unlocked. The cycle will continue if the start button is pressed. If the user presses and holds the stop button the cycle will cancel. If the cycle is canceled any water will be drained from the machine and the door will unlock. 
 
 ### Step 5: Locate Laundry Basket
 
