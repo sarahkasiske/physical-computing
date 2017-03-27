@@ -139,13 +139,33 @@ When the structure was complete I wrapped the petals in purple tool to make them
 
 ## Working With LEDs
 
-After the structhure was complete I began wiring the LEDs to the Arduino. 
-![alt tag](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2647.JPG)
+After the structure was complete I began wiring the LEDs to the Arduino. I first connected the LEDs and made sure they were working. When the LEDs were in place I wired in a photoresister to turn the LEDs on and off depending on the lighting.
 
 [View the LEDs in Action](https://www.youtube.com/watch?v=ZOUbKCHR_SE)
 
 ![Flower Nightlight With Working LEDs](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2674.JPG)
 
+## Closing and Opening Petals
+
+With working LEDs I began working on the mechanics needed to open and close the flower petals. to allow the petals to open and close I cut up a headband and stiched pieces of it between the petals and the center of the flower. In order to attach the pieces of headband to the petals I had to remove the tool covering the petals.
+
+![Headband, Needle and Thread](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2748.JPG)
+
+![Headband, Attached to the Flowers Petals](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2747.JPG)
+
+I then wrapped wire around the top of each petal connecting them to a servo motor to open and close them. I quickly realized one servo motor would not be able to open all of the petals. When all of the wires were connected to one motor the angle of the wire was too sharp to open the petals. Because I did not have enough servo motors for each for of the petals I tried connecting just one to see if I could get the servo motor to work. 
+
+![Servo Motor Connected to Aduino](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2743.JPG)
+
+I tried to open and close the petals first with a Tower Pro SG 5010 servo motor. I am not sure exactly why but I was not able to get the servo motor to work. The setup I had worked perfectly with a less powerful motor but when I wired in the stronger motor it would not work. Unfortunetly, the less powerful potor was not strong enough to open the petal so I decided to add that functionality at a later date.
+
+## Turning the Light On and Off
+
+The final functionality that I added to the nightlight was a way to turn it on and off. I used a potentiometer to control when the light turns on and off. I also used the potentiometer to dim the lights my turning them off one by one. After adding the functionality to turn the light on and off I wrapped the petals in tulle and added some final touches to the design. 
+
+## Final Nightlight
+
+![View the Nightlight](https://www.youtube.com/watch?v=PmCe5H65ES8
 
 
 
