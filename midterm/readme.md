@@ -1,11 +1,11 @@
 # Midterm Project Ideas
 
-## Idea 1: Blooming Flower Night Light
-The blooming flower is a night light that will read the amount of light in a room. As light increases in a room the flower petals will begin to close and the light from the LEDs will dim. When light is removed from a room the petals will begin to open and the light from the LEDs will increase.  
+## Idea 1: Blooming Flower Nightlight
+The blooming flower is a nightlight that will read the amount of light in a room. As light increases in a room the flower petals will begin to close and the light from the LEDs will dim. When light is removed from a room the petals will begin to open and the light from the LEDs will increase.  
 
 This project would be based off of this [example](https://create.arduino.cc/projecthub/circuito-io-team/valentine-s-sunflower-3cdd90). The differentiating factors of this project would be the LED lights and the way the flower works. The flower I would create would work exactly the opposite of the one in the example and would have lights so it would function as a nightlight.
 
-![alt tag](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/IMG_2552.JPG)
+![Flower Nightlight Sketches](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2552.JPG)
 
 ## Code Plan
 
@@ -69,7 +69,7 @@ Using the Tea Steeper users will be able to set an amount of time they would lik
 
 This project would be based off of this [example](http://digitaljunky.io/make-an-automated-tea-steeper-with-arduino/). The differentiating factor of this project would be the rotating of the device to place the used tea into a bowl.
 
-![alt tag](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/IMG_2551.JPG)
+![Automated Tea Steeper Sketches](https://github.com/sarahkasiske/physical-computing/blob/master/midterm//images/IMG_2551.JPG)
 
 ## Code Plan
 
@@ -117,3 +117,36 @@ This project would be based off of this [example](http://digitaljunky.io/make-an
 * 270ohms Resistor
 * Mechanical Arm
 * 2x 9g servo motor
+
+# Blooming Flower Nightlight
+
+## Prototype
+
+After choosing to create the Blooming Flower Nightlight I began prototyping how the light would function. I used an upside down pot as the base of the light and repurposed a blooming birthday candle to work as the flower. To test how a servo motor could open and close the flower I conected the flower to a wire that and attatched it to a servo motor. I then coded the servo motor to go between 90 and 180 degrees, opening and closing the flower. Creating the initial prototype helped me to understand how the mechanics of the flower might work.
+
+[View the prototype](https://www.youtube.com/watch?v=_JmOw5330_s&feature=youtu.be)
+
+## Building the Structure
+
+The next step in my process was building the structure of the nightlight. I decided to keep the structure by creating a pixel shaped flower keeping the petals square. The structure was created from pieces of cut bamboo that I glued together with a hot glue gun. I added LEDs to the petals by placing each LED in a hole drilled through pieces of wood attatched to the center of the petals. I wire wrapped the led and ran the wires through the center of the flower and down the stem to connect to the Arduino.
+
+[View the initial structure](https://www.youtube.com/watch?v=0noUp61uDDs)
+
+When the structure was complete I wrapped the petals in purple tool to make them look more like flower petals.
+
+![Flower Nightlight With Petals Attatched](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2647.JPG)
+
+
+## Working With LEDs
+
+After the structhure was complete I began wiring the LEDs to the Arduino. 
+![alt tag](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2647.JPG)
+
+[View the LEDs in Action](https://www.youtube.com/watch?v=ZOUbKCHR_SE)
+
+![Flower Nightlight With Working LEDs](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2674.JPG)
+
+
+
+
+
