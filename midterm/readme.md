@@ -65,7 +65,7 @@ This is a component that might be included in version 2. When the LEDs are turne
 
 
 ## Idea 2: Automated Tea Steeper
-Using the Tea Steeper users will be able to set an amount of time they would like to steep their tea for. After inputing their desired time the user will place the tea on the devices mechanical arm. Below the tea the user will place mug with hot water. Once the mug is in place the user can press a start button and the tea will be lowered into the water. After the tea is steeped the mechanical arm will rise and a noise will alert the user that the tea is done. When the tea is done the device will rotate and the mechanical arm will place the used tea onto an awaiting bowl.
+Using the Tea Steeper users will be able to set an amount of time they would like to steep their tea for. After inputting their desired time the user will place the tea on the devices mechanical arm. Below the tea the user will place mug with hot water. Once the mug is in place the user can press a start button and the tea will be lowered into the water. After the tea is steeped the mechanical arm will rise and a noise will alert the user that the tea is done. When the tea is done the device will rotate and the mechanical arm will place the used tea onto an awaiting bowl.
 
 This project would be based off of this [example](http://digitaljunky.io/make-an-automated-tea-steeper-with-arduino/). The differentiating factor of this project would be the rotating of the device to place the used tea into a bowl.
 
@@ -122,24 +122,24 @@ This project would be based off of this [example](http://digitaljunky.io/make-an
 
 ## Prototype
 
-After choosing to create the Blooming Flower Nightlight I began prototyping how the light would function. I used an upside down pot as the base of the light and repurposed a blooming birthday candle to work as the flower. To test how a servo motor could open and close the flower I conected the flower to a wire that and attatched it to a servo motor. I then coded the servo motor to go between 90 and 180 degrees, opening and closing the flower. Creating the initial prototype helped me to understand how the mechanics of the flower might work.
+After choosing to create the Blooming Flower Nightlight I began prototyping how the light would function. I used an upside down pot as the base of the light and repurposed a blooming birthday candle to work as the flower. To test how a servo motor could open and close the flower I connected the flower to a wire that and attached it to a servo motor. I then coded the servo motor to go between 90 and 180 degrees, opening and closing the flower. Creating the initial prototype helped me to understand how the mechanics of the flower might work.
 
 [View the prototype](https://www.youtube.com/watch?v=_JmOw5330_s&feature=youtu.be)
 
 ## Building the Structure
 
-The next step in my process was building the structure of the nightlight. I decided to keep the structure by creating a pixel shaped flower keeping the petals square. The structure was created from pieces of cut bamboo that I glued together with a hot glue gun. I added LEDs to the petals by placing each LED in a hole drilled through pieces of wood attatched to the center of the petals. I wire wrapped the led and ran the wires through the center of the flower and down the stem to connect to the Arduino.
+The next step in my process was building the structure of the nightlight. I decided to keep the structure by creating a pixel shaped flower keeping the petals square. The structure was created from pieces of cut bamboo that I glued together with a hot glue gun. I added LEDs to the petals by placing each LED in a hole drilled through pieces of wood attached to the center of the petals. I wire wrapped the led and ran the wires through the center of the flower and down the stem to connect to the Arduino.
 
 [View the initial structure](https://www.youtube.com/watch?v=0noUp61uDDs)
 
 When the structure was complete I wrapped the petals in purple tool to make them look more like flower petals.
 
-![Flower Nightlight With Petals Attatched](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2647.JPG)
+![Flower Nightlight With Petals Attached](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2647.JPG)
 
 
 ## Working With LEDs
 
-After the structure was complete I began wiring the LEDs to the Arduino. I first connected the LEDs and made sure they were working. When the LEDs were in place I wired in a photoresister to turn the LEDs on and off depending on the lighting.
+After the structure was complete I began wiring the LEDs to the Arduino. I first connected the LEDs and made sure they were working. When the LEDs were in place I wired in a photoresistor to turn the LEDs on and off depending on the lighting.
 
 [View the LEDs in Action](https://www.youtube.com/watch?v=ZOUbKCHR_SE)
 
@@ -147,7 +147,7 @@ After the structure was complete I began wiring the LEDs to the Arduino. I first
 
 ## Closing and Opening Petals
 
-With working LEDs I began working on the mechanics needed to open and close the flower petals. to allow the petals to open and close I cut up a headband and stiched pieces of it between the petals and the center of the flower. In order to attach the pieces of headband to the petals I had to remove the tool covering the petals.
+With working LEDs, I began working on the mechanics needed to open and close the flower petals. to allow the petals to open and close I cut up a headband and stitched pieces of it between the petals and the center of the flower. In order to attach the pieces of headband to the petals I had to remove the tool covering the petals.
 
 ![Headband, Needle and Thread](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2748.JPG)
 
@@ -155,9 +155,9 @@ With working LEDs I began working on the mechanics needed to open and close the 
 
 I then wrapped wire around the top of each petal connecting them to a servo motor to open and close them. I quickly realized one servo motor would not be able to open all of the petals. When all of the wires were connected to one motor the angle of the wire was too sharp to open the petals. Because I did not have enough servo motors for each for of the petals I tried connecting just one to see if I could get the servo motor to work. 
 
-![Servo Motor Connected to Aduino](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2743.JPG)
+![Servo Motor Connected to Arduino](https://github.com/sarahkasiske/physical-computing/blob/master/midterm/images/IMG_2743.JPG)
 
-I tried to open and close the petals first with a Tower Pro SG 5010 servo motor. I am not sure exactly why but I was not able to get the servo motor to work. The setup I had worked perfectly with a less powerful motor but when I wired in the stronger motor it would not work. Unfortunetly, the less powerful potor was not strong enough to open the petal so I decided to add that functionality at a later date.
+I tried to open and close the petals first with a Tower Pro SG 5010 servo motor. I am not sure exactly why but I was not able to get the servo motor to work. The setup I had worked perfectly with a less powerful motor but when I wired in the stronger motor it would not work. Unfortunately, the less powerful motor was not strong enough to open the petal so I decided to add that functionality at a later date.
 
 ## Turning the Light On and Off
 
@@ -165,7 +165,8 @@ The final functionality that I added to the nightlight was a way to turn it on a
 
 ## Final Nightlight
 
-![View the Nightlight](https://www.youtube.com/watch?v=PmCe5H65ES8
+[View the Nightlight](https://www.youtube.com/watch?v=PmCe5H65ES8)
+
 
 
 
